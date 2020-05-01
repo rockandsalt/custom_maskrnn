@@ -1,0 +1,4 @@
+scikit-image
+numba
+porespy
+mpld3
